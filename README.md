@@ -175,6 +175,3 @@ imedgeMCT.c : Improvement on imedgeMC.c by incorporating Asynchronous multi-thre
 ```
 ./imedge infile outfile [Threads] [ThreshLo] [ThreshHi]  [PrThreads]
 ```
-
-# Parallel_Computing
-# Parallel_Computing
